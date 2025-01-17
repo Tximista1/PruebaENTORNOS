@@ -35,7 +35,6 @@ public class Prueba {
 			}
 			
 			
-			
 			@Override
 			public String toString() {
 				return "Alumno [dni=" + dni + ", nombre=" + nombre + ", apellidos=" + apellidos + ", grupo=" + grupo + "]";
